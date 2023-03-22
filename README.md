@@ -55,7 +55,7 @@
  <br/>
 <div align="center">
     <p align="center"><img src="https://streak-stats.demolab.com?user=ldldylan&theme=tokyonight"></p>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ldldylan&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true"></p>
+    <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ldldylan&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true"></p> -->
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldldylan&layout=compact&theme=tokyonight"></p>
 </div>
 
