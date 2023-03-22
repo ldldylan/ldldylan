@@ -2,7 +2,7 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # run automatically every 6 hours
   schedule:
     - cron: "0 */6 * * *" 
   
@@ -18,6 +18,7 @@ on:
 
 jobs:
   generate:
+    name: Jobs to update snake grid
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
