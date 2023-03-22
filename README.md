@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&pause=1000&width=435&lines=%F0%9F%91%8BHello!+My+name+is+Dilang+Lin.;%F0%9F%92%BBI'm+a+full-stack+developer+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&pause=1000&width=435&lines=%F0%9F%91%8BHello!+My+name+is+Dilang+Lin.;%F0%9F%92%BBI'm+a+full-stack+developer.)](https://git.io/typing-svg)
 <br>
 <h2 align="center">
 👨‍💻A little about me
