@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&pause=1000&width=435&lines=%F0%9F%91%8BHello!+My+name+is+Dilang+Lin.;%F0%9F%92%BBI'm+a+full-stack+developer"></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=27&pause=1000&color=0FB6F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BHello!+My+name+is+Dilang+Lin.;%F0%9F%92%BBI'm+a+full-stack+developer."></div>
 <h2 align="center">
 👨‍💻A little bit about me
  </h2> 
