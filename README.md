@@ -3,7 +3,7 @@
 👨‍💻A little bit about me
  </h2> 
 
-- 👀 I’m a full-stack developver interested in a software engineering position with opportunities for growth.
+- 👀 A full-stack developver interested in a software engineering position with opportunities for growth
 - 🥅 Currently working on USlack, a full stack clone of the popular business messaging application, Slack
 - 📖 Currently learning WebSocket and DS & A
 - 🏫 Graguated from UC Berkeley with Data Science Major
