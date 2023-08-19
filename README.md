@@ -3,10 +3,10 @@
 👨‍💻A little bit about me
  </h2> 
 
-- 👀 A full-stack developver interested in a software engineering position with opportunities for growth
-- 🥅 Currently working on USlack, a full stack clone of the popular business messaging application, Slack
-- 📖 Currently learning WebSocket and DS & A
-- 🏫 Graguated from UC Berkeley with Data Science Major
+- 👀 A full-stack developer interested in a software engineering position with opportunities for growth
+- 💻 Currently working as a software developer at Nexus 8 and an AI trainer at Scale AI
+- 🏫 Graduated from UC Berkeley with Data Science Major
+- 💬 Feel free to ask me about any of my projects
 - 🏸 Fun fact: I love playing badminton and Beat Saber
 
 <h2 align="center">
