@@ -5,8 +5,8 @@
 
 - 👀 A full-stack developer interested in a software engineering position with opportunities for growth
 - 💻 Currently working as a software developer at Nexus 8 and an AI trainer at Scale AI
-- 🏫 Graduated from UC Berkeley with Data Science Major
-- 💬 Feel free to ask me about any of my projects
+- 🏫 Graduated from UC Berkeley with a Data Science Major
+- 💬 Check out my [portfolio](https://ldldylan.github.io/Portfolio/) and ask me about any of my projects
 - 🏸 Fun fact: I love playing badminton and Beat Saber
 
 <h2 align="center">
