@@ -38,11 +38,11 @@ jobs:
           github_user_name: ldldylan
           outputs: dist/github-contribution-grid-snake.svg
       
-      - name: Generate dark version of github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ldldylan
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      # - name: Generate dark version of github-contribution-grid-snake.svg
+      #   uses: Platane/snk/svg-only@v2
+      #   with:
+      #     github_user_name: ldldylan
+      #     outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       
       # push the content of <build_dir> to a branch
