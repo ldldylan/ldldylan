@@ -60,6 +60,6 @@
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldldylan&layout=compact&theme=tokyonight"></p>
 </div>
 
- ![Snake animation](https://github.com/ldldylan/ldldylan/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ldldylan/ldldylan/blob/output/github-contribution-grid-snake-dark.svg)
 
 
